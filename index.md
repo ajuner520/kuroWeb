@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
-
+## Welcome to my first H5 web.My name is hanghairizhi,wish you have good time on my HTML
 You can use the [editor on GitHub](https://github.com/ajuner520/kuroWeb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
